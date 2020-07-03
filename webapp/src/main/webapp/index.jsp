@@ -8,5 +8,8 @@
 <h3> Using Ansible to create a Docker image and container. Integrated with Jenkins. 28-June-2020.</h3>
 <h3> Updated on 29-June-2020. </br>
 </br>
+<h3> Added the two Ansible playbooks - create-simple-devops-image.yml and create-simple-devops-project.yml to be executed in Jenkins.</h3>
+<h3> Updated on 03-July-2020</br>
+</br>
 <h3> End of document.</h3>
 
